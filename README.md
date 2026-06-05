@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Lavish Sisodia 👋
 
-<!--
-**LavishSisodia/LavishSisodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (Information Technology) Student  
+💻 Aspiring Software Developer  
+📚 Currently learning Data Structures & Algorithms in Java  
+🚀 Solving LeetCode Problems and Building Real-World Projects  
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* SQL
+* Git & GitHub
+* Full Stack Development
+
+## Current Goals
+
+* Solve 300+ LeetCode Problems  
+* Build 3+ Strong Projects  
+* Prepare for Software Developer Roles  
+
+## Connect With Me
+
+* LinkedIn: www.linkedin.com/in/lavish-sisodia-121613285  
+* GitHub: https://github.com/LavishSisodia  
+* LeetCode: https://leetcode.com/u/lavish2000/
