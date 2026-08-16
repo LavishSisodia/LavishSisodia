@@ -14,11 +14,9 @@
 
 ## Current Goals
 
-* Solve 55+ LeetCode Problems till August End    
+* Solve 70+ LeetCode Problems till August End    
 * Prepare for Software Developer Roles  
 
-## Connect With Me
 
-* LinkedIn: www.linkedin.com/in/lavish-sisodia-121613285  
-* GitHub: https://github.com/LavishSisodia  
-* LeetCode: https://leetcode.com/u/lavish2000/
+
+  
