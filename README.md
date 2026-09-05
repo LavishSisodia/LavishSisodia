@@ -14,7 +14,7 @@
 
 ## Current Goals
 
-* Solve 70+ LeetCode Problems till August End    
+* Solve 100+ LeetCode Problems till September End    
 * Prepare for Software Developer Roles  
 
 
